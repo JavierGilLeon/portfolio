@@ -9,7 +9,7 @@ Here you'll find a curated selection of my work in digital systems, embedded pro
 
 | Preview | Project | Description | Technologies | Link |
 |--------|---------|-------------|--------------|------|
-| ![](images/pacman.png) | **🎮 Pac-Man-Like in VHDL** | Hardware-based version of Pac-Man with real-time VGA output and FSM logic. | VHDL, FPGA (Basys 3), Vivado| [View Repo](https://github.com/tu-usuario/pacman-vhdl) |
+| ![](images/pacman.png) | **🎮 Pac-Man-Like in VHDL** | Hardware-based version of Pac-Man with real-time VGA output and FSM logic. | VHDL, FPGA (Basys 3), Vivado| [View Repo](https://github.com/JavierGilLeon/ComeCocos) |
 | ![](images/simon.png) | **🔄 Simon Says on MSP430** | Memory game using LEDs, buttons and sound. Programmed in C for the MSP430. | C, MSP430, Code Composer Studio | [View Repo](https://github.com/tu-usuario/simon-msp430) |
 | ![](images/greenhouse.png) | **🌱 greenhouse control and packaging process automation with PLCs** | Automation system for greenhouse control using PLC logic. | Ladder Logic, ST Logic, Grafcet Logic, PLC | [View Repo](https://github.com/tu-usuario/plc-greenhouse) |
 
