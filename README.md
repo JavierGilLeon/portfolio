@@ -30,7 +30,7 @@ Here you'll find a curated selection of my work in digital systems, embedded pro
 ## 📬 Contact
 
 
-- 📧 Email: javiergilleon@gmail.com  
+- 📧 Email: javiergilleon14@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/javier-gil-leon](https://www.linkedin.com/in/javier-gil-leon-1b7042285/)
 
 > Thank you for visiting my portfolio!  
