@@ -1,7 +1,7 @@
 # 👨‍🔧 Engineering Project Portfolio
 
 Welcome to my personal project portfolio  
-Here you'll find a curated selection of my work in digital systems, embedded programming, and industrial automation.
+Here you'll find a curated selection of my work in digital systems and embedded programming.
 
 ---
 
@@ -20,7 +20,6 @@ Here you'll find a curated selection of my work in digital systems, embedded pro
 - Embedded systems development
 - Real-time VGA graphics and game logic
 - Microcontroller programming in C
-- Ladder, ST and Grafcet logic for industrial automation
 - Simulation, testing and debugging
 - Git version control and documentation
 
