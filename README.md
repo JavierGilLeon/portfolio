@@ -11,7 +11,7 @@ Here you'll find a curated selection of my work in digital systems and embedded 
 |---------|-------------|--------------|------|
 | **🎮 PacMan-Like in VHDL** | Hardware-based version of Pac-Man with real-time VGA output and FSM logic. | VHDL, FPGA (Basys 3), Vivado| [View Repo](https://github.com/JavierGilLeon/ComeCocos) |
 | **🔄 Simon Says on MSP430** | Memory game using LCD, buttons and sound. Programmed in C for the MSP430. | C, MSP430, Code Composer Studio | [View Repo](https://github.com/JavierGilLeon/SimonSays.git) |
-| ** 🕹️ Gameboy Emulator in C** | Low level emulator of the old gameboy (DMG) programmed in C             | C | [View Repo] (https://github.com/JavierGilLeon/DMG_Emulator.git) |
+| ** 🕹️ Gameboy Emulator in C** | Low level emulator of the old gameboy (DMG) programmed in C             | C | [View Repo](https://github.com/JavierGilLeon/DMG_Emulator.git) |
 
 ---
 
